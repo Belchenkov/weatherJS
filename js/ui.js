@@ -21,5 +21,4 @@ class UI {
         this.dewpoint.textContent = `Feels Like: ${weather.dewpoint_string}`;
         this.wind.textContent = `Wind: ${weather.wind_string}`;
     }
-
 }
